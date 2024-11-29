@@ -1,8 +1,4 @@
-<%-- 
-    Document   : ver_relatorio
-    Created on : 17/11/2016, 18:24:31
-    Author     : steff
---%>
+
 
 <%@page import="MODEL.BEAM.Relatorio"%>
 <%@page import="MODEL.BEAM.Central"%>

@@ -1,8 +1,3 @@
-<%-- 
-    Document   : troco
-    Created on : 15/11/2016, 19:28:56
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.Central"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

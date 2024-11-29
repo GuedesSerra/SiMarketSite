@@ -1,8 +1,3 @@
-<%-- 
-    Document   : configuracoes_caixa
-    Created on : 12/11/2016, 13:47:10
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.Central"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

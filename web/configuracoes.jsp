@@ -1,8 +1,3 @@
-<%-- 
-    Document   : configuracoes
-    Created on : 11/11/2016, 18:43:24
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.Central"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,8 +1,3 @@
-<%-- 
-    Document   : sucesso
-    Created on : 29/10/2016, 20:22:36
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.SucessoException"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

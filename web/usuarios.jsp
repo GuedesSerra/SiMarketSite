@@ -1,8 +1,4 @@
-<%-- 
-    Document   : usuarios
-    Created on : 12/11/2016, 10:11:45
-    Author     : steff
---%>
+
 
 <%@page import="MODEL.BEAM.Central"%>
 <%@page import="java.util.ArrayList"%>

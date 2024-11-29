@@ -1,8 +1,3 @@
-<%-- 
-    Document   : deposito
-    Created on : 16/11/2016, 12:16:28
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.Central"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

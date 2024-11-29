@@ -1,8 +1,3 @@
-<%-- 
-    Document   : vendas
-    Created on : 12/11/2016, 11:51:54
-    Author     : steff
---%>
 
 <%@page import="java.time.format.FormatStyle"%>
 <%@page import="java.time.format.DateTimeFormatter"%>

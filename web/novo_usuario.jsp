@@ -1,8 +1,4 @@
-<%-- 
-    Document   : primeiro_usuario
-    Created on : 08/11/2016, 21:12:05
-    Author     : steff
---%>
+
 <%@page import="MODEL.BEAM.Central"%>
 <% //Tela de criação do primeiro usuário. Nela o checkbox de Gerenciar Usuários é checked e disabled, pois o primeiro usuário PRECISA ter estes acessos %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

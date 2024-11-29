@@ -1,8 +1,3 @@
-<%-- 
-    Document   : alerta
-    Created on : 29/10/2016, 20:29:28
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.AlertaException"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

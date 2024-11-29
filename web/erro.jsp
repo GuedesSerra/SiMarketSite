@@ -1,8 +1,3 @@
-<%-- 
-    Document   : erro
-    Created on : 28/10/2016, 20:04:16
-    Author     : steff
---%>
 
 <%@page import="JDBC.ServerConnect"%>
 <%@page import="JDBC.DataBaseConnect"%>

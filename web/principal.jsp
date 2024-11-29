@@ -1,8 +1,3 @@
-<%-- 
-    Document   : principal
-    Created on : 12/11/2016, 08:19:38
-    Author     : steff
---%>
 
 <%@page import="MODEL.DAO.CentralDAO"%>
 <%@page import="MODEL.BEAM.Usuario"%>
@@ -93,8 +88,6 @@
             <div class="footer fade-in two">
                 <p class="bemvindo">Usuário: <%=u.getNome() %></p>
                 <p class="sair"><a href="Sair"><i class="fa fa-power-off" aria-hidden="true"></i> Sair</a></p>
-                <p>Copyright © 2017 SiMarket Fic. Todos os direitos reservados.</p>
-                <p>By: Heitor Nunes, Rhaniel Christian, Steffan Martins.</p> <i class="fa fa-facebook-square" aria-hidden="true"></i> <i class="fa fa-twitter-square" aria-hidden="true"></i> <i class="fa fa-youtube-play" aria-hidden="true"></i> </div>
         </div>
     </body>
 

@@ -1,11 +1,4 @@
-/*
- * Trabalho de Programacao Orientada a Objetos 2
- * Grupo:
- * 11511BSI267 - Heitor H. Nunes
- * 11411BSI207 - Matheus Eduardo da S. Ramos
- * 11511BSI257 - Pedro Henrique da Silva
- * 11511BSI215 - Steffan M.  Alves
- */
+
 package CONTROL;
 
 import MODEL.BEAM.AlertaException;
@@ -33,10 +26,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author steff
- */
 public class C_Relatorio extends HttpServlet {
 
    /**

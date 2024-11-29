@@ -1,8 +1,3 @@
-<%-- 
-    Document   : produtos
-    Created on : 12/11/2016, 11:09:06
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.Produto"%>
 <%@page import="MODEL.BEAM.Central"%>

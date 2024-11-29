@@ -1,8 +1,4 @@
-<%-- 
-    Document   : alterar_senha
-    Created on : 12/11/2016, 17:11:34
-    Author     : steff
---%>
+
 
 <%@page import="MODEL.BEAM.Usuario"%>
 <%@page import="MODEL.BEAM.Central"%>

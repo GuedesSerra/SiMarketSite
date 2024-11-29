@@ -1,8 +1,3 @@
-<%-- 
-    Document   : altera_usuario
-    Created on : 12/11/2016, 18:39:25
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.Usuario"%>
 <%@page import="MODEL.BEAM.Central"%>

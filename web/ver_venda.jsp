@@ -1,8 +1,3 @@
-<%-- 
-    Document   : ver_venda
-    Created on : 17/11/2016, 15:21:10
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.Venda"%>
 <%@page import="MODEL.BEAM.Central"%>

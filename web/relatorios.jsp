@@ -1,8 +1,3 @@
-<%-- 
-    Document   : relatorios
-    Created on : 17/11/2016, 18:14:17
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.Central"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

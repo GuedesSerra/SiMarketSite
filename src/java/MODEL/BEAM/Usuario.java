@@ -1,11 +1,4 @@
-/*
- * Trabalho de Programacao Orientada a Objetos 2
- * Grupo:
- * 11511BSI267 - Heitor H. Nunes
- * 11411BSI207 - Matheus Eduardo da S. Ramos
- * 11511BSI257 - Pedro Henrique da Silva
- * 11511BSI215 - Steffan M.  Alves
- */
+
 package MODEL.BEAM;
 
 import java.io.ByteArrayInputStream;
@@ -15,10 +8,6 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
-/**
- *
- * @author steff
- */
 public abstract class Usuario implements Serializable {
 
    private String papel = "Tela principal.";

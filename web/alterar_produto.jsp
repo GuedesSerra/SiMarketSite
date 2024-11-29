@@ -1,8 +1,4 @@
-<%-- 
-    Document   : alterar_produto
-    Created on : 13/11/2016, 11:05:52
-    Author     : steff
---%>
+
 
 <%@page import="MODEL.BEAM.Produto"%>
 <%@page import="MODEL.BEAM.Central"%>

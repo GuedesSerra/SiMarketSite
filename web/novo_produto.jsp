@@ -1,8 +1,3 @@
-<%-- 
-    Document   : novo_produto
-    Created on : 12/11/2016, 11:17:34
-    Author     : steff
---%>
 
 <%@page import="MODEL.BEAM.Central"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
