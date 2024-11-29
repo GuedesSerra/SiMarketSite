@@ -68,7 +68,7 @@ public class Principal extends HttpServlet {
                   CentralDAO cd = new CentralDAO();
                   Central central = cd.getCentral();
                   request.setAttribute("central", central);
-                  rd = getServletContext().getRequestDispatcher("/login.jsp");
+                  rd = getServletContext().getRequestDispatcher("/index.html");
                }
                rd.forward(request, response);
             }
